@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\D10916203\D10916203\bin\Debug\D10916203.exe.config
+C:\Users\user\source\repos\D10916203\D10916203\bin\Debug\D10916203.exe
+C:\Users\user\source\repos\D10916203\D10916203\bin\Debug\D10916203.pdb
+C:\Users\user\source\repos\D10916203\D10916203\obj\Debug\D10916203.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\D10916203\D10916203\obj\Debug\D10916203.Logo.resources
+C:\Users\user\source\repos\D10916203\D10916203\obj\Debug\D10916203.Properties.Resources.resources
+C:\Users\user\source\repos\D10916203\D10916203\obj\Debug\D10916203.csproj.GenerateResource.cache
+C:\Users\user\source\repos\D10916203\D10916203\obj\Debug\D10916203.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\D10916203\D10916203\obj\Debug\D10916203.exe
+C:\Users\user\source\repos\D10916203\D10916203\obj\Debug\D10916203.pdb
+C:\Users\user\source\repos\D10916203\D10916203\obj\Debug\D10916203.Login.resources
